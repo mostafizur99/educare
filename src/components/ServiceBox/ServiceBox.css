@@ -1,0 +1,31 @@
+
+.box-image{
+    position: relative;
+}
+.box-image:before {
+    background: #012237;
+    position: absolute;
+    height: 37%;
+    width: 100%;
+    content: "";
+    bottom: 0;
+    left: 0;
+    opacity: .7;
+    transition: .3s;
+}
+.box-body{
+    margin-top: 59%;
+    transition: .3s;
+
+}
+.ServiceBox:hover .box-image:before {
+    height: 45%;
+}
+.ServiceBox:hover .box-body{
+    margin-top: 52%;
+}
+.box-price{
+    background-color: #e74d57;
+    border-radius: 30px;
+    padding: 5px 10px;
+}

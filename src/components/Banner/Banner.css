@@ -1,0 +1,18 @@
+.slider-img{
+    position: relative;
+}
+.slider-img:before {
+    background: #000;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    content: "";
+    top: 0;
+    left: 0;
+    opacity: .5;
+}
+.carousel-indicators [data-bs-target] {
+    width: 30px;
+    height: 30px;
+    background-color: #e74d57;
+}

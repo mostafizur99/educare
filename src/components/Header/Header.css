@@ -1,0 +1,41 @@
+.topbar {
+    background-color: #012237;
+    font-size: 17px;
+}
+.custom-color{
+    color: #e74d57;
+}
+.main-color{
+    color: #012237;
+}
+.text-color{
+    color: #555555;
+}
+.custom-button {
+    border: none;
+    font-size: 16px;
+    background: #e74d57;
+    color: #fff;
+    font-weight: 600;
+    padding: 0 38px;
+    line-height: 52px;
+}
+.logo-icon {
+    color: #e74d57;
+    font-size: 40px;
+    margin-right: 10px;
+}
+.logo-text {
+    font-size: 35px;
+    color: #012237;
+    font-weight: 700;
+}
+.menu-item{
+    color: #012237;
+}
+.menu-item:hover{
+    color: #e74d57;
+}
+.topbar a, a:hover {
+    color: #e74d57;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Basic plan",
+        "id_": 1,
+        "price": 10,
+        "subTitle": "Learn unlimited throughout the month."
+    },
+    {
+        "title": "Standard plan",
+        "id_": 2,
+        "price": 15,
+        "subTitle": "Standard choice for travellers with special coupon, highly recommended for students who wants to learn besides academic routine."
+    },
+    {
+        "title": "Premium plan",
+        "id_": 3,
+        "price": 21,
+        "subTitle": "Premium access with attracting offers."
+    }
+]
