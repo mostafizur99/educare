@@ -3,7 +3,7 @@
 This project is built in ReactJs.
 
 ## Deploy Site Link
-s
+
 [Live link](https://mostafiz-educare.netlify.app/).
 
 ## Details

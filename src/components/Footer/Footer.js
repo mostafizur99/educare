@@ -12,7 +12,7 @@ const Footer = () => {
                 <Row>
                     <Col md={4} className="my-4">
                         <h4>About</h4>
-                        <p className="footer-item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, dolore ratione magni beatae labore deserunt eveniet aliquam quae optio molestias!</p>
+                        <p className="footer-item">We EduCare, the highlighted platform to learn specially the basic language from all over the world, perfect for nurturing academic ability.</p>
                     </Col>
                     <Col md={4} className="my-4">
                         <h4 className="ms-3">Quic Links</h4>
