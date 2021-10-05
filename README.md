@@ -8,7 +8,7 @@ This project is built in ReactJs.
 
 ## Details
 
-* The total seo friendly single page frondend website in ReactJs.
-* You can use this project for any kind of teaching platform.
-* This project has dynamic value can be used with own database.
+* This is a website developed in ReactJs with combination of React Bootstrap, React Router.
+* Here this site is developed on dynamic data with the help of react component, react state, react hook, react router.
+* This project can be used for any educational course related website.
 
