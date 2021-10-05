@@ -20,10 +20,15 @@ const ServiceCard = (props) => {
     return (
         <div>
             <Col>
-                <Card className="shadow">
-                    <a href="https://google.com" target="_blank" rel="noreferrer"><Card.Img variant="top" src={thumb} /></a>
+                <Card className="shadow service-card">
+                    <div className="service-card-img">
+                        <a href="https://google.com" target="_blank" rel="noreferrer"><Card.Img variant="top" src={thumb} /></a>
+                    </div>
+                    <div className="service-card-enroll">
+                        <button className="custom-button">Enroll</button>
+                    </div>
                     <Card.Body>
-                        <Card.Title className="main-color fw-bold"><a href="https://google.com" className="text-decoration-none main-color" target="_blank" rel="noreferrer">{name}</a></Card.Title>
+                        <Card.Title className="service-card-title fw-bold"><a href="https://google.com" className="text-decoration-none main-color" target="_blank" rel="noreferrer">{name}</a></Card.Title>
                         <div className="d-flex justify-content-between my-4">
                             <Card.Text><span className="box-price text-white">${price}/lifetimes</span></Card.Text>
                             <div>

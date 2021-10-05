@@ -1,3 +1,44 @@
 .fancy-color{
     color: #0122379f;
 }
+.service-card-img{
+    position: relative;
+}
+.service-card-img:before {
+    background: #012237;
+    position: absolute;
+    height: 30%;
+    width: 100%;
+    content: "";
+    opacity: 0;
+    bottom: 0;
+    left: 0;
+    transition: .3s;
+}
+.service-card:hover .service-card-img:before {
+    opacity: .7;
+    height: 50%;
+
+}
+.service-card{
+    position: relative;
+}
+.service-card-enroll {
+    position: absolute;
+    top: 49%;
+    left: 0;
+    right: 0;
+    transform: translateY(-40%);
+    padding: 0 110px;
+    transition: .3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.service-card:hover .service-card-enroll {
+    opacity: 1;
+    visibility: visible;
+    top: 42%;
+}
+.service-card:hover .service-card-title a{
+    color: #e74d57;
+}
