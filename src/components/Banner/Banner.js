@@ -47,7 +47,7 @@ const Banner = () => {
                     </div>
                     <Carousel.Caption className="mb-5">
                         <h3 className="fs-1">Learn From Home</h3>
-                        <p className="fs-4">Have an advantage for e-larning.</p>
+                        <p className="fs-4">Have an advantage for e-learning.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

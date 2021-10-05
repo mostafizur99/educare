@@ -20,6 +20,7 @@ const ServicePage = () => {
                     <Col>
                         <h6 className="custom-color fs-4">Services</h6>
                         <h3 className="main-color fw-bold">What We Provide To Make You Enrich</h3>
+                        <p className="text-color px-5">EduCare provides the world best language course, the ultimate outline for the language to explore world. We have a good number of world demanding language course. Here is our totall running courses.</p>
                     </Col>
                 </Row>
 

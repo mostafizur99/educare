@@ -1,66 +1,82 @@
 [
     {
-        "name": "English",
-        "subTitle": "Learn English, be explore the world.",
+        "name": "English Learning",
+        "subTitle": "Learn English, explore the world.",
         "id": 1,
-        "price": 225,
+        "price": 95,
+        "liveClass": true,
+        "duration": 24,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/12/Depositphotos_72150359_original-300x300.jpg",
-        "srtDesc": "Knowing English increases your chances of getting a good job in a multinational company within your home country or for finding work abroad. It's also the language of international communication, the media and the internet, so learning English is important for socialising and entertainment as well as work!"
+        "srtDesc": "Knowing English increases your chances of getting a good job as well as the space of communication world!"
     },
     {
-        "name": "Spanish",
-        "subTitle": "Communicate with Spanish or Latin American countries",
+        "name": "Speak in Spanish",
+        "subTitle": "Communicate with Spanish, Latin American.",
         "id": 2,
-        "price": 205,
+        "price": 82,
+        "liveClass": false,
+        "duration": 26,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/12/Depositphotos_58582087_original-300x300.jpg",
-        "srtDesc": "By learning Spanish, you'll be better able to communicate with Spanish speakers. Latin American countries are our most important trading partners. Being able to speak Spanish greatly enhances your resume.Your ability to understand Spanish enables you to gain important insights."
+        "srtDesc": "Understand Spanish enables you to gain important insights with most important trading partners."
     },
     {
-        "name": "German",
-        "subTitle": "Second most commonly used scientific language",
+        "name": "Mastering German",
+        "subTitle": "Learn mother of  scientific language",
         "id": 3,
-        "price": 220,
+        "price": 94,
+        "liveClass": true,
+        "duration": 28,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/07/Depositphotos_73936385_original1-300x300.jpg",
-        "srtDesc": "German is the second most commonly used scientific language in the world.Many of the Western world's most important works of philosophy, literature, music, art history, theology, psychology, chemistry, physics, engineering and medicine are written in German and continue to be produced in German."
+        "srtDesc": "Learning German,the most commonly used scientific language in the world will lead you one step shead."
     },
     {
-        "name": "Japanese",
+        "name": "Japanese Studies",
         "subTitle": "Learn Japanese, learn culture of ethic",
         "id": 4,
-        "price": 215,
+        "price": 90,
+        "liveClass": false,
+        "duration": 22,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/08/Depositphotos_46326837_original-580x580.jpg",
-        "srtDesc": "when you learn Japanese, you become not only proficient in the language but also gain an insider view of the culture. Understanding the Japanese work ethic, their business etiquette, and knowing which cultural faux pas to avoid can often make or break an important business deal."
+        "srtDesc": "Learning Japanese will help to gain an insider view of an ethic Japanese culture as well the technology."
     },
     {
-        "name": "Russian",
+        "name": "Understanding Russian",
         "subTitle": "Learn Russian, explore the world more",
         "id": 5,
-        "price": 220,
+        "price": 80,
+        "liveClass": true,
+        "duration": 25,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/12/Depositphotos_85241664_original1-300x300.jpg",
-        "srtDesc": "Learning Russian can help you understand useful concepts for studying other languages. It will also help you understand your own language better! Taking on the task of learning Russian will profoundly change how you perceive language and understand the world around you."
+        "srtDesc": "Learning Russian can help you understand useful concepts for studying other languages around the world."
     },
     {
-        "name": "Korean",
-        "subTitle": "Learning Korean to connects 75 million people worldwide",
+        "name": "Korean Language",
+        "subTitle": "Connect with 75 million people worldwide",
         "id": 6,
-        "price": 208,
+        "price": 87,
+        "liveClass": false,
+        "duration": 29,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/07/Depositphotos_66455527_original-300x300.jpg",
-        "srtDesc": "Learning Korean connects you to 75 million people worldwide. Here, you can have a one-of-a-kind opportunity to dive into Korean culture and explore a new world. ... Learning about Korean language and culture will give you a deep appreciation for your ancestors as well as for this ancient culture."
+        "srtDesc": "Learning Korean gives you opportunity to connects you and explore the world of 75 million people."
     },
     {
-        "name": "Chinese",
-        "subTitle": "Open skills up just over 1.3 billion people across China!",
+        "name": "Chinese Learning",
+        "subTitle": "Open skills up just over 1.3 billion people.",
         "id": 7,
-        "price": 212,
+        "price": 82,
+        "liveClass": false,
+        "duration": 24,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/07/Depositphotos_49215681_original1-300x300.jpg",
-        "srtDesc": "Chinese language skills open up just over 1.3 billion people across China! Learning Mandarin gives you access to communicate with many people and connect on a deeper level, not just in Asia but across the world! Studies suggest that learning Chinese uses more parts of the brain than are required for other languages."
+        "srtDesc": "Chinese language skills open up just over 1.3 billion people connect on a deeper level throughout the world."
     },
     {
-        "name": "French",
+        "name": "French Skills",
         "subTitle": "Learn French, learn language of love.",
         "id": 8,
-        "price": 218,
+        "price": 94,
+        "liveClass": true,
+        "duration": 22,
         "thumb": "https://language-school.cmsmasters.net/wp-content/uploads/2015/11/Depositphotos_88893684_original-300x300.jpg",
-        "srtDesc": "French is the pleasure of learning a beautiful, rich, melodious language that is often called the language of love. French is also an analytical language that structures thought and develops critical thinking, which is a valuable skill for discussions and negotiations."
+        "srtDesc": "French, the language of love is a pleasure of learning a beautiful, rich, melodious, analytical language."
     }
 ]
